@@ -27,6 +27,19 @@ Welcome to my implementation of the Gaussian Mixture Model (GMM) in Python. The 
 
 - `GaussianMixtureModel.ipynb`: The older, scratch implementation of the GMM.
 - `Production Grade GMM.ipynb`: The new, object-oriented implementation with enhancements for stability and performance.
-  
+
+## Usage 
+
+To use the code, download the jupyter notebook and select appropriate python version and install the packages 
+- numpy
+- matlplotlib
+- sklearn
+- scipy
+
+Post this, you just need to run the notebook!
+At the end of the notebook you can see the comparison of our code with sklearn's results!
 # Result 
-![GMM.png]
+![GMM.png](GMM.png)
+
+# License
+This project is licensed under the MIT License. 
